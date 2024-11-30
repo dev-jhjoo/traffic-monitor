@@ -1,0 +1,15 @@
+{
+  "name": "traffic-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "jhjoo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "k6": "^0.0.0"
+  }
+}
